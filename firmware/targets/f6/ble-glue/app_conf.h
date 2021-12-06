@@ -141,7 +141,7 @@
  */
 #define CFG_BLE_MAX_ATT_MTU             (489)
 
-/**2
+/**
  * Size of the storage area for Attribute values
  *  This value depends on the number of attributes used by application. In particular the sum of the following quantities (in octets) should be made for each attribute:
  *  - attribute value length
